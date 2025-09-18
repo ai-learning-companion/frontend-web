@@ -1,5 +1,28 @@
-# Vue 3 + TypeScript + Vite
+# Personalized AI Learning Companion – Web Frontend
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is the **React web application** for the Personalized AI Learning Companion.  
+It provides learners with a gamified and interactive UI to track progress, access courses, and take quizzes.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+---
+
+## Tech Stack
+- [React](https://react.dev/) (Vite)
+- [TailwindCSS](https://tailwindcss.com/)
+- [shadcn/ui](https://ui.shadcn.com/)
+- API Gateway (Spring Boot backend)
+- AWS Amplify (deployment target)
+
+---
+
+## Setup
+
+```bash
+# clone repo
+git clone https://github.com/your-org/frontend-web.git
+cd frontend-web
+
+# install dependencies
+npm install
+
+# run locally
+npm run dev
